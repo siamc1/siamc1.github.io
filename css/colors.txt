@@ -1,0 +1,10 @@
+light blue:		61B3FA
+light blue 2:	5BA8EB
+dark yellow: 	FED136
+dark yellow 2:	FEC503
+
+darker blue:	2662ED
+darker blue 2:	335BB8
+darker blue 3:	2D50A1
+
+light yellow:	EFF551
